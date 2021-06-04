@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandra! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
 
 I'm a passionate and curious full stack developer based in Fortaleza/CE, Brazil.
 
@@ -11,7 +11,7 @@ If you have some question or I can help you with something, please let me know.
 - 🌱 I’m currently learning SQL
 
 * **Languages**<br>
-  [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 
 * **Front End Tools**<br>
