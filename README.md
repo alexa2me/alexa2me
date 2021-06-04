@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandra! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
 
 I'm a passionate and curious full stack developer based in Fortaleza/CE, Brazil.
 
