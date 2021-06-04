@@ -8,14 +8,13 @@ I started studying by myself and fell madly in love with coding after reading th
 
 If you have some question or I can help you with something, please let me know.
 
-**Languages**<br>
+-**Languages**<br>
+
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 
 - 🌱 I’m currently learning SQL
-- ⚡ Fun fact: 
-
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
