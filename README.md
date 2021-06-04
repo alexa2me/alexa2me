@@ -27,7 +27,7 @@ If you have some question or I can help you with something, please let me know.
   
 * **Back End Tools**<br>
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
-  [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&logoHeight=40&link=https://expressjs.com/)](https://expressjs.com/)
+  [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&logoHeight=80&link=https://expressjs.com/)](https://expressjs.com/)
   
 
 <!--
