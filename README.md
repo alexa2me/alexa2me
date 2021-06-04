@@ -24,13 +24,16 @@ If you have some question or I can help you with something, please let me know.
   
 * **Back End Tools**<br>
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
-   
-  
+  [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
+  [![Chakra Badge](https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=chakra&logoColor=white&link=)]()
 
 
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+
 
 Here are some ideas to get you started:
 
