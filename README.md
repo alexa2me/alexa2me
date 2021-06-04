@@ -20,14 +20,15 @@ If you have some question or I can help you with something, please let me know.
   [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://reactjs.org/)](https://reactjs.org/)
   [![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://styled-components.com/)](https://styled-components.com/)
   [![Chakra Badge](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&link=https://chakra-ui.com/)](https://chakra-ui.com/)
-  [![Material Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&link=https://material-ui.com/)](https://material-ui.com/)  
+  [![Material Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&link=https://material-ui.com/)](https://material-ui.com/)
+  
+* **Design Tools**<br>
   [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&link=https://figma.com)](https://figma.com)
   
 * **Back End Tools**<br>
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
- 
-
+  
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
