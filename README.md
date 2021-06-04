@@ -4,7 +4,7 @@
 
 I'm a passionate and curious full stack developer based in Fortaleza/CE, Brazil.
 
-I started studying by myself and fell madly in love with coding after reading the book <font color="green">3D Game Programming for Kids</font>, I thought that if a kid was able to understand that, I should be able too and just like those series we start watching and suddently we can't stop until the last episode of the season, it happened on me, - yes, the book is awesome - I finished the book and I knew that it was I wanted to do, but I'm not developing games, - although I find it very exciting - now I'm having a lot of fun in web development.
+I started studying by myself and fell madly in love with coding after reading the book <font color="#005500">"3D Game Programming for Kids"</font>, I thought that if a kid was able to understand that, I should be able too and just like those series we start watching and suddently we can't stop until the last episode of the season, it happened on me, - yes, the book is awesome - I finished the book and I knew that it was I wanted to do, but I'm not developing games, - although I find it very exciting - now I'm having a lot of fun in web development.
 
 If you have some question or I can help you with something, please let me know.
 
