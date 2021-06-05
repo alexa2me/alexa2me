@@ -32,12 +32,15 @@ If you have some question or I can help you with something, please let me know.
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me)](https://github.com/alexa2me/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa2me)](https://github.com/alexa2me/github-readme-stats)
+
 
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+
 
 
 Here are some ideas to get you started:
