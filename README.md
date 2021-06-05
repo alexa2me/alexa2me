@@ -31,7 +31,7 @@ If you have some question or I can help you with something, please let me know.
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me&show_icons=true&theme=dark&bg_color=45deg, red, green)
+![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me&show_icons=true&theme=dark&bg_color=(45deg, red, green))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa2me&langs_count=3&layout=compact)](https://github.com/alexa2me/github-readme-stats)
 
 
