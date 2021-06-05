@@ -32,7 +32,6 @@ If you have some question or I can help you with something, please let me know.
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   
 ![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me&show_icons=true&theme=dark&custom_title=Alexandra%27s%20GitHub%20Stats&count_private=true)
-&bg_color=45deg,#FEB692,#ea5455)
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
