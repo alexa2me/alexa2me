@@ -32,7 +32,7 @@ If you have some question or I can help you with something, please let me know.
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
   
 [![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me)](https://github.com/alexa2me/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa2me)](https://github.com/alexa2me/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa2me&layout=compact)](https://github.com/alexa2me/github-readme-stats)
 
 
 
