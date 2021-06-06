@@ -11,6 +11,8 @@ I started studying by myself and fell madly in love with coding after reading th
 If you have some question or I can help you with something, please let me know.
 
 - 🌱 I’m currently learning how to build APIs with **Express** and **Knex**
+- 💬 Ask me about anything <https://github.com/alexa2me/alexa2me/issues>
+
 
 * **Languages**<br>
   [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
