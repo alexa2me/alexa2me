@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandra! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/srta.xanda/)](https://www.instagram.com/srta.xanda/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ale-alcantara/)](https://www.linkedin.com/in/ale-alcantara/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white&link=https://www.instagram.com/srta.xanda/)](https://www.instagram.com/srta.xanda/)
 
 
 I'm a passionate and curious full stack developer based in Fortaleza/CE, Brazil.
