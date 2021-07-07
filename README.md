@@ -11,7 +11,7 @@ I started studying by myself and fell madly in love with coding after reading th
 If you have some question or I can help you with something, please let me know.
 
 - 🌱 I’m currently learning how to build APIs with **Express** and **Knex**
-- 💬 Ask me about anything [here](https://github.com/alexa2me/alexa2me/issues)
+- 💬 Ask me about resume (CV), LinkedIn, interviews and GitHub [here](https://github.com/alexa2me/alexa2me/issues)
 
 
 * **Languages**<br>
