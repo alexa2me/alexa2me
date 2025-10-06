@@ -31,8 +31,8 @@ If you have some question or I can help you with something, please let me know.
 * **Back End Tools**<br>
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=&logo=mysql&logoColor=white&link=https://https://www.mysql.com/)](https://www.mysql.com/)
   [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
-  
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa2me&show_icons=true&theme=dark&custom_title=Alexandra%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true)
+
+![alexa2me's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexa2me&theme=vue-dark&hide_border=true)  ![alexa2me's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexa2me&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **alexa2me/alexa2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
